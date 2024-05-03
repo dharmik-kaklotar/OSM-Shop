@@ -21,14 +21,15 @@ To run the website locally, follow these steps:
 1. Clone this repository to your local machine.
    ```bash
    https://github.com/dharmik-kaklotar/OSM-Shop.git
+   
 2. Navigate to the project directory.
    ```bash
    cd your-repo
    
-3.Install the dependencies.
+3. Install the dependencies.
    ```bash
    npm install
-```
+   ```
    
 4. Start the development server.
    ```bash
